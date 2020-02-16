@@ -17,8 +17,10 @@ If you have got other version you have to clear tattoos for all players - I'm us
 # Installation
 Drag and drop. You also need to have es_extended installed. Don't forget about .sql file!
 
-# License
+# Credits
 n0thus is the original author - https://github.com/n0thus
+
+# License
 Like from author of this script:
 
 "Everybody can re-release it for different cores but please, credit."
